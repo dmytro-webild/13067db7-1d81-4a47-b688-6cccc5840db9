@@ -99,7 +99,7 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/side-view-senior-man-laughing_23-2151203948.jpg",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/brown-vintage-leather-chair-stylish-barber-shop_627829-6180.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/brown-vintage-leather-chair-stylish-barber-shop_627829-6180.jpg?_wi=1"
       imageAlt="barber shop interior dark aesthetic"
       avatars={[
         {
@@ -184,7 +184,7 @@ export default function LandingPage() {
           title: "Beard Grooming",
           description: "Hot towel shave and beard trim.",
           tag: "Essential",
-          imageSrc: "http://img.b2bpic.net/free-photo/brown-vintage-leather-chair-stylish-barber-shop_627829-6180.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/brown-vintage-leather-chair-stylish-barber-shop_627829-6180.jpg?_wi=2",
           imageAlt: "Handsome bearded man at the barbershop barber at work",
         },
         {
